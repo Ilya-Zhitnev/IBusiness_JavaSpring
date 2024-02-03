@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Barcode"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Branch"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Country"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Currency"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="CustContract"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Customers"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Genre"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="GenreProduct"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="IncomeDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Incomes"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="InvoiceDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Invoices"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Language"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Log_Documents"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Measure"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="MediaType_old"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Order"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="OrderDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="PriceCategories"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Products"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Sertificate"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Settings"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Status"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Stock"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Stores"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Tax"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="UserPosition"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="Users"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewCust_ForIns"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewCustomers"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewGenrePrd"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewIncomeDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewIncomes"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewInvoceDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewInvoices"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewMargin"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewOrderDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewOrders"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewPrd_ForInc"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewPrd_ForInvWbl"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewRegistrIncomes"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewRegistrInvoces"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewRegistrWaybills"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewSale"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewStockOnParty"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewStockOnPrd"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewWaybillDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="ViewWaybills"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="WayBillDetails"/>
+  <table-filter match-catalog="AVBusiness" match-schema="dbo" match-name="WayBills"/>
+</hibernate-reverse-engineering>
